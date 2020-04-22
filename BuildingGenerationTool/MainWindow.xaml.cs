@@ -39,7 +39,7 @@ namespace BuildingGenerationTool
 
         public void RunBothPythonScriptsOnImage()
         {
-            if (condaEnvrionment != "")
+            if (condaEnvrionment != "" && condaEnvrionment.Split('\\').Last() == "Miniconda3" && baseImageDir != "")
             {
                 var process = new Process
                 {
@@ -84,7 +84,7 @@ namespace BuildingGenerationTool
         /// <param name="imageLocation"></param>
         public void RunJustLineDetectionPythonScript(string imageLocation, bool haveSymbolsBeenLoaded)
         {
-            if (condaEnvrionment != "")
+            if (condaEnvrionment != "" && condaEnvrionment.Split('\\').Last() == "Miniconda3" && baseImageDir != "")
             {
                 var process = new Process
                 {

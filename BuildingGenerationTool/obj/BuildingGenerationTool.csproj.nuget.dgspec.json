@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ben11\\Documents\\BuildingGenerator\\BuildingGenerationTool\\BuildingGenerationTool.csproj": {}
+    "C:\\Users\\ben11\\Documents\\CTP-Building-Generator\\BuildingGenerationTool\\BuildingGenerationTool.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ben11\\Documents\\BuildingGenerator\\BuildingGenerationTool\\BuildingGenerationTool.csproj": {
+    "C:\\Users\\ben11\\Documents\\CTP-Building-Generator\\BuildingGenerationTool\\BuildingGenerationTool.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ben11\\Documents\\BuildingGenerator\\BuildingGenerationTool\\BuildingGenerationTool.csproj",
+        "projectUniqueName": "C:\\Users\\ben11\\Documents\\CTP-Building-Generator\\BuildingGenerationTool\\BuildingGenerationTool.csproj",
         "projectName": "BuildingGenerationTool",
-        "projectPath": "C:\\Users\\ben11\\Documents\\BuildingGenerator\\BuildingGenerationTool\\BuildingGenerationTool.csproj",
+        "projectPath": "C:\\Users\\ben11\\Documents\\CTP-Building-Generator\\BuildingGenerationTool\\BuildingGenerationTool.csproj",
         "packagesPath": "C:\\Users\\ben11\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ben11\\Documents\\BuildingGenerator\\BuildingGenerationTool\\obj\\",
+        "outputPath": "C:\\Users\\ben11\\Documents\\CTP-Building-Generator\\BuildingGenerationTool\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

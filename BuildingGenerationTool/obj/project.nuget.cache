@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1kqyUUpj1oSlbiln7f9hBJ2CRhxPvYiHZadYPT2plHcqBuECo1WurqiFpIP3esA/KSq9QcUx7hnBiKMSxbD4Nw==",
+  "dgSpecHash": "RHE5P6CUhcA/kXA7/+EekMG+Jj8xk/P5XvRMFFVLDvCY3g0paiBCny/oev7Gt702vPHB82GFu7+NxODOqDcFgA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ben11\\Documents\\BuildingGenerator\\BuildingGenerationTool\\BuildingGenerationTool.csproj",
+  "projectFilePath": "C:\\Users\\ben11\\Documents\\CTP-Building-Generator\\BuildingGenerationTool\\BuildingGenerationTool.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

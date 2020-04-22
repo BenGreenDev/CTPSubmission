@@ -2,27 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="918bb435-fa01-4452-a490-2dd2f69ac124" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../../.vs/BuildingGenerationTool/DesignTimeBuild/.dtbcache.v2" beforeDir="false" afterPath="$PROJECT_DIR$/../../.vs/BuildingGenerationTool/DesignTimeBuild/.dtbcache.v2" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../.vs/BuildingGenerationTool/v16/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../../.vs/BuildingGenerationTool/v16/.suo" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DirectXTool/DirectXTool/Data/data.json" beforeDir="false" afterPath="$PROJECT_DIR$/../DirectXTool/DirectXTool/Data/data.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DirectXTool/DirectXTool/Data/symbols.json" beforeDir="false" afterPath="$PROJECT_DIR$/../DirectXTool/DirectXTool/Data/symbols.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/LineDetection.py" beforeDir="false" afterPath="$PROJECT_DIR$/LineDetection.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mergedLines.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MainWindow.xaml" beforeDir="false" afterPath="$PROJECT_DIR$/../MainWindow.xaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MainWindow.xaml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../MainWindow.xaml.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../bin/Debug/netcoreapp3.1/BuildingGenerationTool.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/Debug/netcoreapp3.1/BuildingGenerationTool.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../obj/BuildingGenerationTool.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../obj/BuildingGenerationTool.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../obj/Debug/netcoreapp3.1/BuildingGenerationTool.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../obj/Debug/netcoreapp3.1/BuildingGenerationTool.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../obj/Debug/netcoreapp3.1/BuildingGenerationTool.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../obj/Debug/netcoreapp3.1/BuildingGenerationTool.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../obj/Debug/netcoreapp3.1/BuildingGenerationTool.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../obj/Debug/netcoreapp3.1/BuildingGenerationTool.csproj.FileListAbsolute.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../obj/Debug/netcoreapp3.1/BuildingGenerationTool.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../obj/Debug/netcoreapp3.1/BuildingGenerationTool.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../obj/Debug/netcoreapp3.1/BuildingGenerationTool.g.resources" beforeDir="false" afterPath="$PROJECT_DIR$/../obj/Debug/netcoreapp3.1/BuildingGenerationTool.g.resources" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../obj/Debug/netcoreapp3.1/BuildingGenerationTool.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../obj/Debug/netcoreapp3.1/BuildingGenerationTool.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../obj/Debug/netcoreapp3.1/MainWindow.baml" beforeDir="false" afterPath="$PROJECT_DIR$/../obj/Debug/netcoreapp3.1/MainWindow.baml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../obj/Debug/netcoreapp3.1/MainWindow.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../obj/Debug/netcoreapp3.1/MainWindow.g.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../obj/Debug/netcoreapp3.1/MainWindow.g.i.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../obj/Debug/netcoreapp3.1/MainWindow.g.i.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Test images/DoorAndWindowTest.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../../Test images/DoorAndWindowTest.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Test images/Last.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../../Test images/Last.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Test images/RandomTest.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../Test images/RandomTest.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Test images/ironman.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../../Test images/ironman.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../obj/Debug/netcoreapp3.1/BuildingGenerationTool_MarkupCompile.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../obj/Debug/netcoreapp3.1/BuildingGenerationTool_MarkupCompile.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../obj/Debug/netcoreapp3.1/BuildingGenerationTool_MarkupCompile.i.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../obj/Debug/netcoreapp3.1/BuildingGenerationTool_MarkupCompile.i.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../obj/Debug/netcoreapp3.1/BuildingGenerationTool_MarkupCompile.lref" beforeDir="false" afterPath="$PROJECT_DIR$/../obj/Debug/netcoreapp3.1/BuildingGenerationTool_MarkupCompile.lref" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../obj/project.nuget.cache" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />

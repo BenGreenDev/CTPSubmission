@@ -55,6 +55,8 @@ def pointstojson(pointlist):
 #Our main processing function
 def processLines():
     img = cv2.imread(imageLocation)
+    img = np.array(img, dtype=np.uint8)
+    
     #greyscale
     gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
 
