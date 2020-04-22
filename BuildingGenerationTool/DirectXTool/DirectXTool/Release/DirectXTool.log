@@ -1,0 +1,172 @@
+﻿  App.cpp
+  Box.cpp
+  Camera.cpp
+  Door.cpp
+  Drawable.cpp
+  LevelLoader.cpp
+  Mouse.cpp
+  Sheet.cpp
+  WindowObject.cpp
+C:\Users\ben11\Documents\BuildingGenerator\BuildingGenerationTool\DirectXTool\DirectXTool\GraphicsThrowMacros.h(10,1): warning C4005: 'INFOMAN': macro redefinition (compiling source file Drawable.cpp)
+C:\Users\ben11\Documents\BuildingGenerator\BuildingGenerationTool\DirectXTool\DirectXTool\GraphicsThrowMacros.h(9): message : see previous definition of 'INFOMAN' (compiling source file Drawable.cpp)
+C:\Users\ben11\Documents\BuildingGenerator\BuildingGenerationTool\DirectXTool\DirectXTool\GraphicsThrowMacros.h(10,1): warning C4005: 'INFOMAN': macro redefinition (compiling source file Box.cpp)
+C:\Users\ben11\Documents\BuildingGenerator\BuildingGenerationTool\DirectXTool\DirectXTool\GraphicsThrowMacros.h(9): message : see previous definition of 'INFOMAN' (compiling source file Box.cpp)
+C:\Users\ben11\Documents\BuildingGenerator\BuildingGenerationTool\DirectXTool\DirectXTool\GraphicsThrowMacros.h(10,1): warning C4005: 'INFOMAN': macro redefinition (compiling source file Door.cpp)
+C:\Users\ben11\Documents\BuildingGenerator\BuildingGenerationTool\DirectXTool\DirectXTool\GraphicsThrowMacros.h(9): message : see previous definition of 'INFOMAN' (compiling source file Door.cpp)
+C:\Users\ben11\Documents\BuildingGenerator\BuildingGenerationTool\DirectXTool\DirectXTool\App.h(29,25): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data (compiling source file App.cpp)
+C:\Users\ben11\Documents\BuildingGenerator\BuildingGenerationTool\DirectXTool\DirectXTool\Door.cpp(39,9): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\ben11\Documents\BuildingGenerator\BuildingGenerationTool\DirectXTool\DirectXTool\Door.cpp(40,9): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\ben11\Documents\BuildingGenerator\BuildingGenerationTool\DirectXTool\DirectXTool\Door.cpp(41,9): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\ben11\Documents\BuildingGenerator\BuildingGenerationTool\DirectXTool\DirectXTool\Door.cpp(60,29): warning C4244: '=': conversion from 'long double' to 'float', possible loss of data
+C:\Users\ben11\Documents\BuildingGenerator\BuildingGenerationTool\DirectXTool\DirectXTool\Door.cpp(97,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ben11\Documents\BuildingGenerator\BuildingGenerationTool\DirectXTool\DirectXTool\Door.cpp(139,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ben11\Documents\BuildingGenerator\BuildingGenerationTool\DirectXTool\DirectXTool\Door.cpp(209,23): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ben11\Documents\BuildingGenerator\BuildingGenerationTool\DirectXTool\DirectXTool\Door.cpp(209,17): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ben11\Documents\BuildingGenerator\BuildingGenerationTool\DirectXTool\DirectXTool\Door.cpp(209,11): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ben11\Documents\BuildingGenerator\BuildingGenerationTool\DirectXTool\DirectXTool\Door.cpp(210,50): warning C4244: 'argument': conversion from 'long double' to 'float', possible loss of data
+C:\Users\ben11\Documents\BuildingGenerator\BuildingGenerationTool\DirectXTool\DirectXTool\App.cpp(188,20): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\ben11\Documents\BuildingGenerator\BuildingGenerationTool\DirectXTool\DirectXTool\GenericOBJ.h(113,27): warning C4018: '<': signed/unsigned mismatch (compiling source file Door.cpp)
+C:\Users\ben11\Documents\BuildingGenerator\BuildingGenerationTool\DirectXTool\DirectXTool\Door.h(67): message : see reference to function template instantiation 'IndexedTriangleList<Door::Vertex> GenericOBJ::MakeOBJ<Door::Vertex>(const char *,bool)' being compiled (compiling source file Door.cpp)
+C:\Users\ben11\Documents\BuildingGenerator\BuildingGenerationTool\DirectXTool\DirectXTool\GenericOBJ.h(127,27): warning C4018: '<': signed/unsigned mismatch (compiling source file Door.cpp)
+  Wall.cpp
+C:\Users\ben11\Documents\BuildingGenerator\BuildingGenerationTool\DirectXTool\DirectXTool\GraphicsThrowMacros.h(10,1): warning C4005: 'INFOMAN': macro redefinition (compiling source file Sheet.cpp)
+C:\Users\ben11\Documents\BuildingGenerator\BuildingGenerationTool\DirectXTool\DirectXTool\GraphicsThrowMacros.h(9): message : see previous definition of 'INFOMAN' (compiling source file Sheet.cpp)
+  TransformCbuf.cpp
+C:\Users\ben11\Documents\BuildingGenerator\BuildingGenerationTool\DirectXTool\DirectXTool\Plane.h(51,25): warning C4018: '<': signed/unsigned mismatch (compiling source file Sheet.cpp)
+C:\Users\ben11\Documents\BuildingGenerator\BuildingGenerationTool\DirectXTool\DirectXTool\Plane.h(72): message : see reference to function template instantiation 'IndexedTriangleList<Sheet::{ctor}::Vertex> Plane::MakeTesselated<V>(int,int)' being compiled
+          with
+          [
+              V=Sheet::{ctor}::Vertex
+          ] (compiling source file Sheet.cpp)
+C:\Users\ben11\Documents\BuildingGenerator\BuildingGenerationTool\DirectXTool\DirectXTool\Sheet.cpp(36): message : see reference to function template instantiation 'IndexedTriangleList<Sheet::{ctor}::Vertex> Plane::Make<Sheet::{ctor}::Vertex>(void)' being compiled
+C:\Users\ben11\Documents\BuildingGenerator\BuildingGenerationTool\DirectXTool\DirectXTool\Plane.h(53,26): warning C4018: '<': signed/unsigned mismatch (compiling source file Sheet.cpp)
+C:\Users\ben11\Documents\BuildingGenerator\BuildingGenerationTool\DirectXTool\DirectXTool\GraphicsThrowMacros.h(10,1): warning C4005: 'INFOMAN': macro redefinition (compiling source file WindowObject.cpp)
+C:\Users\ben11\Documents\BuildingGenerator\BuildingGenerationTool\DirectXTool\DirectXTool\GraphicsThrowMacros.h(9): message : see previous definition of 'INFOMAN' (compiling source file WindowObject.cpp)
+C:\Users\ben11\Documents\BuildingGenerator\BuildingGenerationTool\DirectXTool\DirectXTool\WindowObject.cpp(39,9): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\ben11\Documents\BuildingGenerator\BuildingGenerationTool\DirectXTool\DirectXTool\WindowObject.cpp(40,9): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\ben11\Documents\BuildingGenerator\BuildingGenerationTool\DirectXTool\DirectXTool\WindowObject.cpp(41,9): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\ben11\Documents\BuildingGenerator\BuildingGenerationTool\DirectXTool\DirectXTool\WindowObject.cpp(60,29): warning C4244: '=': conversion from 'long double' to 'float', possible loss of data
+C:\Users\ben11\Documents\BuildingGenerator\BuildingGenerationTool\DirectXTool\DirectXTool\WindowObject.cpp(97,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ben11\Documents\BuildingGenerator\BuildingGenerationTool\DirectXTool\DirectXTool\WindowObject.cpp(140,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ben11\Documents\BuildingGenerator\BuildingGenerationTool\DirectXTool\DirectXTool\WindowObject.cpp(210,23): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ben11\Documents\BuildingGenerator\BuildingGenerationTool\DirectXTool\DirectXTool\WindowObject.cpp(210,17): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ben11\Documents\BuildingGenerator\BuildingGenerationTool\DirectXTool\DirectXTool\WindowObject.cpp(210,11): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ben11\Documents\BuildingGenerator\BuildingGenerationTool\DirectXTool\DirectXTool\WindowObject.cpp(211,50): warning C4244: 'argument': conversion from 'long double' to 'float', possible loss of data
+C:\Users\ben11\Documents\BuildingGenerator\BuildingGenerationTool\DirectXTool\DirectXTool\LevelLoader.cpp(34,64): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ben11\Documents\BuildingGenerator\BuildingGenerationTool\DirectXTool\DirectXTool\LevelLoader.cpp(39,50): warning C4244: 'argument': conversion from 'long double' to 'float', possible loss of data
+C:\Users\ben11\Documents\BuildingGenerator\BuildingGenerationTool\DirectXTool\DirectXTool\LevelLoader.cpp(40,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ben11\Documents\BuildingGenerator\BuildingGenerationTool\DirectXTool\DirectXTool\LevelLoader.cpp(44,50): warning C4244: 'argument': conversion from 'long double' to 'float', possible loss of data
+C:\Users\ben11\Documents\BuildingGenerator\BuildingGenerationTool\DirectXTool\DirectXTool\LevelLoader.cpp(45,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ben11\Documents\BuildingGenerator\BuildingGenerationTool\DirectXTool\DirectXTool\LevelLoader.cpp(75,62): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ben11\Documents\BuildingGenerator\BuildingGenerationTool\DirectXTool\DirectXTool\LevelLoader.cpp(78,91): warning C4244: 'argument': conversion from 'long double' to 'float', possible loss of data
+C:\Users\ben11\Documents\BuildingGenerator\BuildingGenerationTool\DirectXTool\DirectXTool\LevelLoader.cpp(85,68): warning C4244: 'argument': conversion from 'LONG' to 'float', possible loss of data
+C:\Users\ben11\Documents\BuildingGenerator\BuildingGenerationTool\DirectXTool\DirectXTool\LevelLoader.cpp(89,68): warning C4244: 'argument': conversion from 'LONG' to 'float', possible loss of data
+C:\Users\ben11\Documents\BuildingGenerator\BuildingGenerationTool\DirectXTool\DirectXTool\LevelLoader.cpp(128,49): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ben11\Documents\BuildingGenerator\BuildingGenerationTool\DirectXTool\DirectXTool\LevelLoader.cpp(128,34): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ben11\Documents\BuildingGenerator\BuildingGenerationTool\DirectXTool\DirectXTool\LevelLoader.cpp(128,29): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ben11\Documents\BuildingGenerator\BuildingGenerationTool\DirectXTool\DirectXTool\LevelLoader.cpp(135,48): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ben11\Documents\BuildingGenerator\BuildingGenerationTool\DirectXTool\DirectXTool\LevelLoader.cpp(135,32): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ben11\Documents\BuildingGenerator\BuildingGenerationTool\DirectXTool\DirectXTool\LevelLoader.cpp(135,27): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ben11\Documents\BuildingGenerator\BuildingGenerationTool\DirectXTool\DirectXTool\LevelLoader.cpp(154,18): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=int64_t
+          ]
+C:\Users\ben11\Documents\BuildingGenerator\BuildingGenerationTool\DirectXTool\DirectXTool\LevelLoader.cpp(155,12): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=int64_t
+          ]
+C:\Users\ben11\Documents\BuildingGenerator\BuildingGenerationTool\DirectXTool\DirectXTool\LevelLoader.cpp(156,12): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=int64_t
+          ]
+C:\Users\ben11\Documents\BuildingGenerator\BuildingGenerationTool\DirectXTool\DirectXTool\LevelLoader.cpp(284,14): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=int64_t
+          ]
+C:\Users\ben11\Documents\BuildingGenerator\BuildingGenerationTool\DirectXTool\DirectXTool\LevelLoader.cpp(285,14): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=int64_t
+          ]
+C:\Users\ben11\Documents\BuildingGenerator\BuildingGenerationTool\DirectXTool\DirectXTool\LevelLoader.cpp(286,12): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=int64_t
+          ]
+C:\Users\ben11\Documents\BuildingGenerator\BuildingGenerationTool\DirectXTool\DirectXTool\LevelLoader.cpp(287,12): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=int64_t
+          ]
+C:\Users\ben11\Documents\BuildingGenerator\BuildingGenerationTool\DirectXTool\DirectXTool\LevelLoader.cpp(288,20): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=int64_t
+          ]
+C:\Users\ben11\Documents\BuildingGenerator\BuildingGenerationTool\DirectXTool\DirectXTool\LevelLoader.cpp(289,20): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=int64_t
+          ]
+C:\Users\ben11\Documents\BuildingGenerator\BuildingGenerationTool\DirectXTool\DirectXTool\LevelLoader.cpp(290,13): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=int64_t
+          ]
+C:\Users\ben11\Documents\BuildingGenerator\BuildingGenerationTool\DirectXTool\DirectXTool\LevelLoader.cpp(309,14): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=int64_t
+          ]
+C:\Users\ben11\Documents\BuildingGenerator\BuildingGenerationTool\DirectXTool\DirectXTool\LevelLoader.cpp(310,14): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=int64_t
+          ]
+C:\Users\ben11\Documents\BuildingGenerator\BuildingGenerationTool\DirectXTool\DirectXTool\LevelLoader.cpp(311,12): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=int64_t
+          ]
+C:\Users\ben11\Documents\BuildingGenerator\BuildingGenerationTool\DirectXTool\DirectXTool\LevelLoader.cpp(312,12): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=int64_t
+          ]
+C:\Users\ben11\Documents\BuildingGenerator\BuildingGenerationTool\DirectXTool\DirectXTool\LevelLoader.cpp(313,20): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=int64_t
+          ]
+C:\Users\ben11\Documents\BuildingGenerator\BuildingGenerationTool\DirectXTool\DirectXTool\LevelLoader.cpp(314,20): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=int64_t
+          ]
+C:\Users\ben11\Documents\BuildingGenerator\BuildingGenerationTool\DirectXTool\DirectXTool\LevelLoader.cpp(315,13): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=int64_t
+          ]
+C:\Users\ben11\Documents\BuildingGenerator\BuildingGenerationTool\DirectXTool\DirectXTool\GenericOBJ.h(113,27): warning C4018: '<': signed/unsigned mismatch (compiling source file WindowObject.cpp)
+C:\Users\ben11\Documents\BuildingGenerator\BuildingGenerationTool\DirectXTool\DirectXTool\WindowObject.h(67): message : see reference to function template instantiation 'IndexedTriangleList<WindowObject::Vertex> GenericOBJ::MakeOBJ<WindowObject::Vertex>(const char *,bool)' being compiled (compiling source file WindowObject.cpp)
+C:\Users\ben11\Documents\BuildingGenerator\BuildingGenerationTool\DirectXTool\DirectXTool\GenericOBJ.h(127,27): warning C4018: '<': signed/unsigned mismatch (compiling source file WindowObject.cpp)
+C:\Users\ben11\Documents\BuildingGenerator\BuildingGenerationTool\DirectXTool\DirectXTool\GraphicsThrowMacros.h(10,1): warning C4005: 'INFOMAN': macro redefinition (compiling source file Wall.cpp)
+C:\Users\ben11\Documents\BuildingGenerator\BuildingGenerationTool\DirectXTool\DirectXTool\GraphicsThrowMacros.h(9): message : see previous definition of 'INFOMAN' (compiling source file Wall.cpp)
+C:\Users\ben11\Documents\BuildingGenerator\BuildingGenerationTool\DirectXTool\DirectXTool\Wall.cpp(54,9): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\ben11\Documents\BuildingGenerator\BuildingGenerationTool\DirectXTool\DirectXTool\Wall.cpp(55,9): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\ben11\Documents\BuildingGenerator\BuildingGenerationTool\DirectXTool\DirectXTool\Wall.cpp(56,9): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\ben11\Documents\BuildingGenerator\BuildingGenerationTool\DirectXTool\DirectXTool\Wall.cpp(73,29): warning C4244: '=': conversion from 'long double' to 'float', possible loss of data
+C:\Users\ben11\Documents\BuildingGenerator\BuildingGenerationTool\DirectXTool\DirectXTool\Wall.cpp(151,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ben11\Documents\BuildingGenerator\BuildingGenerationTool\DirectXTool\DirectXTool\Wall.cpp(170,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ben11\Documents\BuildingGenerator\BuildingGenerationTool\DirectXTool\DirectXTool\Wall.cpp(246,23): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ben11\Documents\BuildingGenerator\BuildingGenerationTool\DirectXTool\DirectXTool\Wall.cpp(246,17): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ben11\Documents\BuildingGenerator\BuildingGenerationTool\DirectXTool\DirectXTool\Wall.cpp(246,11): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ben11\Documents\BuildingGenerator\BuildingGenerationTool\DirectXTool\DirectXTool\Wall.cpp(247,50): warning C4244: 'argument': conversion from 'long double' to 'float', possible loss of data
+C:\Users\ben11\Documents\BuildingGenerator\BuildingGenerationTool\DirectXTool\DirectXTool\GraphicsThrowMacros.h(10,1): warning C4005: 'INFOMAN': macro redefinition (compiling source file TransformCbuf.cpp)
+C:\Users\ben11\Documents\BuildingGenerator\BuildingGenerationTool\DirectXTool\DirectXTool\GraphicsThrowMacros.h(9): message : see previous definition of 'INFOMAN' (compiling source file TransformCbuf.cpp)
+  DirectXTool.vcxproj -> C:\Users\ben11\Documents\BuildingGenerator\BuildingGenerationTool\DirectXTool\Release\DirectXTool.exe

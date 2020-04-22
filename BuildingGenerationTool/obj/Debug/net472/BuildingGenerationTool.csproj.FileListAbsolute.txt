@@ -1,0 +1,15 @@
+C:\Users\ben11\Documents\BuildingGenerationTool\BuildingGenerationTool\bin\Debug\net472\BuildingGenerationTool.exe.config
+C:\Users\ben11\Documents\BuildingGenerationTool\BuildingGenerationTool\bin\Debug\net472\BuildingGenerationTool.exe
+C:\Users\ben11\Documents\BuildingGenerationTool\BuildingGenerationTool\bin\Debug\net472\BuildingGenerationTool.pdb
+C:\Users\ben11\Documents\BuildingGenerationTool\BuildingGenerationTool\obj\Debug\net472\BuildingGenerationTool.csprojAssemblyReference.cache
+C:\Users\ben11\Documents\BuildingGenerationTool\BuildingGenerationTool\obj\Debug\net472\MainWindow.g.cs
+C:\Users\ben11\Documents\BuildingGenerationTool\BuildingGenerationTool\obj\Debug\net472\App.g.cs
+C:\Users\ben11\Documents\BuildingGenerationTool\BuildingGenerationTool\obj\Debug\net472\BuildingGenerationTool_MarkupCompile.cache
+C:\Users\ben11\Documents\BuildingGenerationTool\BuildingGenerationTool\obj\Debug\net472\BuildingGenerationTool_MarkupCompile.lref
+C:\Users\ben11\Documents\BuildingGenerationTool\BuildingGenerationTool\obj\Debug\net472\MainWindow.baml
+C:\Users\ben11\Documents\BuildingGenerationTool\BuildingGenerationTool\obj\Debug\net472\BuildingGenerationTool.g.resources
+C:\Users\ben11\Documents\BuildingGenerationTool\BuildingGenerationTool\obj\Debug\net472\BuildingGenerationTool.csproj.CoreCompileInputs.cache
+C:\Users\ben11\Documents\BuildingGenerationTool\BuildingGenerationTool\obj\Debug\net472\BuildingGenerationTool.AssemblyInfoInputs.cache
+C:\Users\ben11\Documents\BuildingGenerationTool\BuildingGenerationTool\obj\Debug\net472\BuildingGenerationTool.AssemblyInfo.cs
+C:\Users\ben11\Documents\BuildingGenerationTool\BuildingGenerationTool\obj\Debug\net472\BuildingGenerationTool.exe
+C:\Users\ben11\Documents\BuildingGenerationTool\BuildingGenerationTool\obj\Debug\net472\BuildingGenerationTool.pdb

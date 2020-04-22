@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(467,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (ATProject.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+C:\Users\ben11\Documents\BuildingGenerationTool\ATProject\DirectXTool\PixelShader.hlsl(7,40-50): error X4502: invalid vs_2_0 output semantic 'SV_Target'
+C:\Users\ben11\Documents\BuildingGenerationTool\ATProject\DirectXTool\PixelShader.hlsl(7,22-37): error X4502: invalid vs_2_0 input semantic 'SV_PrimitiveID'
+  
+  compilation failed; no code produced

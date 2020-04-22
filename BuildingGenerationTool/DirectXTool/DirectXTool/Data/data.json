@@ -1,0 +1,2394 @@
+{
+    "metaData": [
+        {
+            "shouldLoadSymbols": "False"
+        }
+    ],
+    "points": [
+        {
+            "startX": 57,
+            "startY": 46,
+            "endX": 701,
+            "endY": 46,
+            "centerpointX": 379,
+            "centerpointY": 46,
+            "angle": 180
+        },
+        {
+            "startX": 62,
+            "startY": 731,
+            "endX": 355,
+            "endY": 732,
+            "centerpointX": 208,
+            "centerpointY": 731,
+            "angle": -179
+        },
+        {
+            "startX": 65,
+            "startY": 557,
+            "endX": 194,
+            "endY": 557,
+            "centerpointX": 129,
+            "centerpointY": 557,
+            "angle": 180
+        },
+        {
+            "startX": 65,
+            "startY": 518,
+            "endX": 194,
+            "endY": 518,
+            "centerpointX": 129,
+            "centerpointY": 518,
+            "angle": 180
+        },
+        {
+            "startX": 66,
+            "startY": 718,
+            "endX": 160,
+            "endY": 718,
+            "centerpointX": 113,
+            "centerpointY": 718,
+            "angle": 180
+        },
+        {
+            "startX": 67,
+            "startY": 720,
+            "endX": 355,
+            "endY": 720,
+            "centerpointX": 211,
+            "centerpointY": 720,
+            "angle": 180
+        },
+        {
+            "startX": 67,
+            "startY": 511,
+            "endX": 190,
+            "endY": 511,
+            "centerpointX": 128,
+            "centerpointY": 511,
+            "angle": 180
+        },
+        {
+            "startX": 67,
+            "startY": 266,
+            "endX": 197,
+            "endY": 266,
+            "centerpointX": 132,
+            "centerpointY": 266,
+            "angle": 180
+        },
+        {
+            "startX": 67,
+            "startY": 565,
+            "endX": 175,
+            "endY": 565,
+            "centerpointX": 121,
+            "centerpointY": 565,
+            "angle": 180
+        },
+        {
+            "startX": 67,
+            "startY": 258,
+            "endX": 197,
+            "endY": 258,
+            "centerpointX": 132,
+            "centerpointY": 258,
+            "angle": 180
+        },
+        {
+            "startX": 69,
+            "startY": 260,
+            "endX": 197,
+            "endY": 260,
+            "centerpointX": 133,
+            "centerpointY": 260,
+            "angle": 180
+        },
+        {
+            "startX": 71,
+            "startY": 57,
+            "endX": 292,
+            "endY": 57,
+            "centerpointX": 181,
+            "centerpointY": 57,
+            "angle": 180
+        },
+        {
+            "startX": 87,
+            "startY": 338,
+            "endX": 165,
+            "endY": 338,
+            "centerpointX": 126,
+            "centerpointY": 338,
+            "angle": 180
+        },
+        {
+            "startX": 88,
+            "startY": 332,
+            "endX": 163,
+            "endY": 332,
+            "centerpointX": 125,
+            "centerpointY": 332,
+            "angle": 180
+        },
+        {
+            "startX": 90,
+            "startY": 340,
+            "endX": 161,
+            "endY": 340,
+            "centerpointX": 125,
+            "centerpointY": 340,
+            "angle": 180
+        },
+        {
+            "startX": 178,
+            "startY": 617,
+            "endX": 197,
+            "endY": 617,
+            "centerpointX": 187,
+            "centerpointY": 617,
+            "angle": 180
+        },
+        {
+            "startX": 191,
+            "startY": 292,
+            "endX": 247,
+            "endY": 291,
+            "centerpointX": 219,
+            "centerpointY": 291,
+            "angle": 178
+        },
+        {
+            "startX": 192,
+            "startY": 285,
+            "endX": 247,
+            "endY": 286,
+            "centerpointX": 219,
+            "centerpointY": 285,
+            "angle": -178
+        },
+        {
+            "startX": 198,
+            "startY": 211,
+            "endX": 230,
+            "endY": 212,
+            "centerpointX": 214,
+            "centerpointY": 211,
+            "angle": -178
+        },
+        {
+            "startX": 198,
+            "startY": 218,
+            "endX": 225,
+            "endY": 218,
+            "centerpointX": 211,
+            "centerpointY": 218,
+            "angle": 180
+        },
+        {
+            "startX": 268,
+            "startY": 291,
+            "endX": 306,
+            "endY": 291,
+            "centerpointX": 287,
+            "centerpointY": 291,
+            "angle": 180
+        },
+        {
+            "startX": 268,
+            "startY": 285,
+            "endX": 307,
+            "endY": 285,
+            "centerpointX": 287,
+            "centerpointY": 285,
+            "angle": 180
+        },
+        {
+            "startX": 271,
+            "startY": 538,
+            "endX": 320,
+            "endY": 538,
+            "centerpointX": 295,
+            "centerpointY": 538,
+            "angle": 180
+        },
+        {
+            "startX": 276,
+            "startY": 545,
+            "endX": 320,
+            "endY": 545,
+            "centerpointX": 298,
+            "centerpointY": 545,
+            "angle": 180
+        },
+        {
+            "startX": 278,
+            "startY": 416,
+            "endX": 460,
+            "endY": 416,
+            "centerpointX": 369,
+            "centerpointY": 416,
+            "angle": 180
+        },
+        {
+            "startX": 278,
+            "startY": 410,
+            "endX": 460,
+            "endY": 410,
+            "centerpointX": 369,
+            "centerpointY": 410,
+            "angle": 180
+        },
+        {
+            "startX": 288,
+            "startY": 211,
+            "endX": 358,
+            "endY": 211,
+            "centerpointX": 323,
+            "centerpointY": 211,
+            "angle": 180
+        },
+        {
+            "startX": 290,
+            "startY": 582,
+            "endX": 335,
+            "endY": 582,
+            "centerpointX": 312,
+            "centerpointY": 582,
+            "angle": 180
+        },
+        {
+            "startX": 301,
+            "startY": 268,
+            "endX": 312,
+            "endY": 271,
+            "centerpointX": 306,
+            "centerpointY": 269,
+            "angle": -164
+        },
+        {
+            "startX": 305,
+            "startY": 658,
+            "endX": 324,
+            "endY": 658,
+            "centerpointX": 314,
+            "centerpointY": 658,
+            "angle": 180
+        },
+        {
+            "startX": 306,
+            "startY": 665,
+            "endX": 325,
+            "endY": 665,
+            "centerpointX": 315,
+            "centerpointY": 665,
+            "angle": 180
+        },
+        {
+            "startX": 308,
+            "startY": 218,
+            "endX": 360,
+            "endY": 217,
+            "centerpointX": 334,
+            "centerpointY": 217,
+            "angle": 178
+        },
+        {
+            "startX": 311,
+            "startY": 57,
+            "endX": 382,
+            "endY": 57,
+            "centerpointX": 346,
+            "centerpointY": 57,
+            "angle": 180
+        },
+        {
+            "startX": 335,
+            "startY": 270,
+            "endX": 466,
+            "endY": 270,
+            "centerpointX": 400,
+            "centerpointY": 270,
+            "angle": 180
+        },
+        {
+            "startX": 346,
+            "startY": 277,
+            "endX": 442,
+            "endY": 277,
+            "centerpointX": 394,
+            "centerpointY": 277,
+            "angle": 180
+        },
+        {
+            "startX": 386,
+            "startY": 218,
+            "endX": 425,
+            "endY": 218,
+            "centerpointX": 405,
+            "centerpointY": 218,
+            "angle": 180
+        },
+        {
+            "startX": 387,
+            "startY": 732,
+            "endX": 465,
+            "endY": 732,
+            "centerpointX": 426,
+            "centerpointY": 732,
+            "angle": 180
+        },
+        {
+            "startX": 387,
+            "startY": 720,
+            "endX": 427,
+            "endY": 720,
+            "centerpointX": 407,
+            "centerpointY": 720,
+            "angle": 180
+        },
+        {
+            "startX": 396,
+            "startY": 161,
+            "endX": 427,
+            "endY": 161,
+            "centerpointX": 411,
+            "centerpointY": 161,
+            "angle": 180
+        },
+        {
+            "startX": 396,
+            "startY": 211,
+            "endX": 417,
+            "endY": 211,
+            "centerpointX": 406,
+            "centerpointY": 211,
+            "angle": 180
+        },
+        {
+            "startX": 399,
+            "startY": 57,
+            "endX": 479,
+            "endY": 57,
+            "centerpointX": 439,
+            "centerpointY": 57,
+            "angle": 180
+        },
+        {
+            "startX": 407,
+            "startY": 582,
+            "endX": 419,
+            "endY": 582,
+            "centerpointX": 413,
+            "centerpointY": 582,
+            "angle": 180
+        },
+        {
+            "startX": 414,
+            "startY": 588,
+            "endX": 466,
+            "endY": 588,
+            "centerpointX": 440,
+            "centerpointY": 588,
+            "angle": 180
+        },
+        {
+            "startX": 421,
+            "startY": 545,
+            "endX": 467,
+            "endY": 545,
+            "centerpointX": 444,
+            "centerpointY": 545,
+            "angle": 180
+        },
+        {
+            "startX": 431,
+            "startY": 582,
+            "endX": 467,
+            "endY": 582,
+            "centerpointX": 449,
+            "centerpointY": 582,
+            "angle": 180
+        },
+        {
+            "startX": 441,
+            "startY": 720,
+            "endX": 526,
+            "endY": 720,
+            "centerpointX": 483,
+            "centerpointY": 720,
+            "angle": 180
+        },
+        {
+            "startX": 453,
+            "startY": 156,
+            "endX": 480,
+            "endY": 156,
+            "centerpointX": 466,
+            "centerpointY": 156,
+            "angle": 180
+        },
+        {
+            "startX": 459,
+            "startY": 218,
+            "endX": 492,
+            "endY": 218,
+            "centerpointX": 475,
+            "centerpointY": 218,
+            "angle": 180
+        },
+        {
+            "startX": 461,
+            "startY": 503,
+            "endX": 568,
+            "endY": 503,
+            "centerpointX": 514,
+            "centerpointY": 503,
+            "angle": 180
+        },
+        {
+            "startX": 477,
+            "startY": 611,
+            "endX": 505,
+            "endY": 611,
+            "centerpointX": 491,
+            "centerpointY": 611,
+            "angle": 180
+        },
+        {
+            "startX": 485,
+            "startY": 617,
+            "endX": 505,
+            "endY": 617,
+            "centerpointX": 495,
+            "centerpointY": 617,
+            "angle": 180
+        },
+        {
+            "startX": 490,
+            "startY": 277,
+            "endX": 706,
+            "endY": 277,
+            "centerpointX": 598,
+            "centerpointY": 277,
+            "angle": 180
+        },
+        {
+            "startX": 490,
+            "startY": 510,
+            "endX": 568,
+            "endY": 510,
+            "centerpointX": 529,
+            "centerpointY": 510,
+            "angle": 180
+        },
+        {
+            "startX": 491,
+            "startY": 447,
+            "endX": 707,
+            "endY": 447,
+            "centerpointX": 599,
+            "centerpointY": 447,
+            "angle": 180
+        },
+        {
+            "startX": 491,
+            "startY": 438,
+            "endX": 624,
+            "endY": 438,
+            "centerpointX": 557,
+            "centerpointY": 438,
+            "angle": 180
+        },
+        {
+            "startX": 491,
+            "startY": 269,
+            "endX": 706,
+            "endY": 269,
+            "centerpointX": 598,
+            "centerpointY": 269,
+            "angle": 180
+        },
+        {
+            "startX": 502,
+            "startY": 57,
+            "endX": 597,
+            "endY": 57,
+            "centerpointX": 549,
+            "centerpointY": 57,
+            "angle": 180
+        },
+        {
+            "startX": 505,
+            "startY": 732,
+            "endX": 623,
+            "endY": 732,
+            "centerpointX": 564,
+            "centerpointY": 732,
+            "angle": 180
+        },
+        {
+            "startX": 519,
+            "startY": 219,
+            "endX": 628,
+            "endY": 218,
+            "centerpointX": 573,
+            "centerpointY": 218,
+            "angle": 179
+        },
+        {
+            "startX": 522,
+            "startY": 210,
+            "endX": 626,
+            "endY": 210,
+            "centerpointX": 574,
+            "centerpointY": 210,
+            "angle": 180
+        },
+        {
+            "startX": 526,
+            "startY": 611,
+            "endX": 543,
+            "endY": 611,
+            "centerpointX": 534,
+            "centerpointY": 611,
+            "angle": 180
+        },
+        {
+            "startX": 539,
+            "startY": 720,
+            "endX": 595,
+            "endY": 720,
+            "centerpointX": 567,
+            "centerpointY": 720,
+            "angle": 180
+        },
+        {
+            "startX": 548,
+            "startY": 582,
+            "endX": 575,
+            "endY": 582,
+            "centerpointX": 561,
+            "centerpointY": 582,
+            "angle": 180
+        },
+        {
+            "startX": 595,
+            "startY": 554,
+            "endX": 638,
+            "endY": 553,
+            "centerpointX": 616,
+            "centerpointY": 553,
+            "angle": 178
+        },
+        {
+            "startX": 596,
+            "startY": 588,
+            "endX": 707,
+            "endY": 588,
+            "centerpointX": 651,
+            "centerpointY": 588,
+            "angle": 180
+        },
+        {
+            "startX": 596,
+            "startY": 560,
+            "endX": 707,
+            "endY": 560,
+            "centerpointX": 651,
+            "centerpointY": 560,
+            "angle": 180
+        },
+        {
+            "startX": 596,
+            "startY": 582,
+            "endX": 706,
+            "endY": 582,
+            "centerpointX": 651,
+            "centerpointY": 582,
+            "angle": 180
+        },
+        {
+            "startX": 601,
+            "startY": 153,
+            "endX": 608,
+            "endY": 153,
+            "centerpointX": 604,
+            "centerpointY": 153,
+            "angle": 180
+        },
+        {
+            "startX": 603,
+            "startY": 720,
+            "endX": 659,
+            "endY": 720,
+            "centerpointX": 631,
+            "centerpointY": 720,
+            "angle": 180
+        },
+        {
+            "startX": 604,
+            "startY": 510,
+            "endX": 638,
+            "endY": 510,
+            "centerpointX": 621,
+            "centerpointY": 510,
+            "angle": 180
+        },
+        {
+            "startX": 611,
+            "startY": 503,
+            "endX": 656,
+            "endY": 503,
+            "centerpointX": 633,
+            "centerpointY": 503,
+            "angle": 180
+        },
+        {
+            "startX": 618,
+            "startY": 57,
+            "endX": 674,
+            "endY": 57,
+            "centerpointX": 646,
+            "centerpointY": 57,
+            "angle": 180
+        },
+        {
+            "startX": 625,
+            "startY": 425,
+            "endX": 648,
+            "endY": 410,
+            "centerpointX": 636,
+            "centerpointY": 417,
+            "angle": 146
+        },
+        {
+            "startX": 627,
+            "startY": 732,
+            "endX": 683,
+            "endY": 732,
+            "centerpointX": 655,
+            "centerpointY": 732,
+            "angle": 180
+        },
+        {
+            "startX": 633,
+            "startY": 152,
+            "endX": 672,
+            "endY": 152,
+            "centerpointX": 652,
+            "centerpointY": 152,
+            "angle": 180
+        },
+        {
+            "startX": 636,
+            "startY": 145,
+            "endX": 696,
+            "endY": 145,
+            "centerpointX": 666,
+            "centerpointY": 145,
+            "angle": 180
+        },
+        {
+            "startX": 636,
+            "startY": 419,
+            "endX": 675,
+            "endY": 416,
+            "centerpointX": 655,
+            "centerpointY": 417,
+            "angle": 175
+        },
+        {
+            "startX": 642,
+            "startY": 437,
+            "endX": 700,
+            "endY": 438,
+            "centerpointX": 671,
+            "centerpointY": 437,
+            "angle": -179
+        },
+        {
+            "startX": 651,
+            "startY": 553,
+            "endX": 707,
+            "endY": 553,
+            "centerpointX": 679,
+            "centerpointY": 553,
+            "angle": 180
+        },
+        {
+            "startX": 701,
+            "startY": 518,
+            "endX": 707,
+            "endY": 518,
+            "centerpointX": 704,
+            "centerpointY": 518,
+            "angle": 180
+        },
+        {
+            "startX": 708,
+            "startY": 705,
+            "endX": 755,
+            "endY": 706,
+            "centerpointX": 731,
+            "centerpointY": 705,
+            "angle": -178
+        },
+        {
+            "startX": 755,
+            "startY": 998,
+            "endX": 1562,
+            "endY": 998,
+            "centerpointX": 1158,
+            "centerpointY": 998,
+            "angle": 180
+        },
+        {
+            "startX": 761,
+            "startY": 776,
+            "endX": 912,
+            "endY": 776,
+            "centerpointX": 836,
+            "centerpointY": 776,
+            "angle": 180
+        },
+        {
+            "startX": 761,
+            "startY": 986,
+            "endX": 1555,
+            "endY": 986,
+            "centerpointX": 1158,
+            "centerpointY": 986,
+            "angle": 180
+        },
+        {
+            "startX": 763,
+            "startY": 872,
+            "endX": 819,
+            "endY": 872,
+            "centerpointX": 791,
+            "centerpointY": 872,
+            "angle": 180
+        },
+        {
+            "startX": 771,
+            "startY": 307,
+            "endX": 851,
+            "endY": 307,
+            "centerpointX": 811,
+            "centerpointY": 307,
+            "angle": 180
+        },
+        {
+            "startX": 777,
+            "startY": 715,
+            "endX": 820,
+            "endY": 715,
+            "centerpointX": 798,
+            "centerpointY": 715,
+            "angle": 180
+        },
+        {
+            "startX": 778,
+            "startY": 398,
+            "endX": 855,
+            "endY": 398,
+            "centerpointX": 816,
+            "centerpointY": 398,
+            "angle": 180
+        },
+        {
+            "startX": 781,
+            "startY": 376,
+            "endX": 848,
+            "endY": 376,
+            "centerpointX": 814,
+            "centerpointY": 376,
+            "angle": 180
+        },
+        {
+            "startX": 793,
+            "startY": 367,
+            "endX": 838,
+            "endY": 367,
+            "centerpointX": 815,
+            "centerpointY": 367,
+            "angle": 180
+        },
+        {
+            "startX": 810,
+            "startY": 866,
+            "endX": 827,
+            "endY": 866,
+            "centerpointX": 818,
+            "centerpointY": 866,
+            "angle": 180
+        },
+        {
+            "startX": 811,
+            "startY": 787,
+            "endX": 867,
+            "endY": 787,
+            "centerpointX": 839,
+            "centerpointY": 787,
+            "angle": 180
+        },
+        {
+            "startX": 821,
+            "startY": 708,
+            "endX": 835,
+            "endY": 707,
+            "centerpointX": 828,
+            "centerpointY": 707,
+            "angle": 175
+        },
+        {
+            "startX": 829,
+            "startY": 890,
+            "endX": 867,
+            "endY": 890,
+            "centerpointX": 848,
+            "centerpointY": 890,
+            "angle": 180
+        },
+        {
+            "startX": 830,
+            "startY": 897,
+            "endX": 870,
+            "endY": 897,
+            "centerpointX": 850,
+            "centerpointY": 897,
+            "angle": 180
+        },
+        {
+            "startX": 856,
+            "startY": 705,
+            "endX": 908,
+            "endY": 700,
+            "centerpointX": 882,
+            "centerpointY": 702,
+            "angle": 174
+        },
+        {
+            "startX": 857,
+            "startY": 715,
+            "endX": 913,
+            "endY": 715,
+            "centerpointX": 885,
+            "centerpointY": 715,
+            "angle": 180
+        },
+        {
+            "startX": 877,
+            "startY": 401,
+            "endX": 923,
+            "endY": 412,
+            "centerpointX": 900,
+            "centerpointY": 406,
+            "angle": -166
+        },
+        {
+            "startX": 878,
+            "startY": 398,
+            "endX": 935,
+            "endY": 397,
+            "centerpointX": 906,
+            "centerpointY": 397,
+            "angle": 178
+        },
+        {
+            "startX": 879,
+            "startY": 787,
+            "endX": 897,
+            "endY": 787,
+            "centerpointX": 888,
+            "centerpointY": 787,
+            "angle": 180
+        },
+        {
+            "startX": 887,
+            "startY": 277,
+            "endX": 943,
+            "endY": 277,
+            "centerpointX": 915,
+            "centerpointY": 277,
+            "angle": 180
+        },
+        {
+            "startX": 889,
+            "startY": 287,
+            "endX": 935,
+            "endY": 288,
+            "centerpointX": 912,
+            "centerpointY": 287,
+            "angle": -178
+        },
+        {
+            "startX": 931,
+            "startY": 897,
+            "endX": 962,
+            "endY": 897,
+            "centerpointX": 946,
+            "centerpointY": 897,
+            "angle": 180
+        },
+        {
+            "startX": 936,
+            "startY": 772,
+            "endX": 946,
+            "endY": 772,
+            "centerpointX": 941,
+            "centerpointY": 772,
+            "angle": 180
+        },
+        {
+            "startX": 959,
+            "startY": 787,
+            "endX": 1015,
+            "endY": 787,
+            "centerpointX": 987,
+            "centerpointY": 787,
+            "angle": 180
+        },
+        {
+            "startX": 964,
+            "startY": 776,
+            "endX": 1047,
+            "endY": 776,
+            "centerpointX": 1005,
+            "centerpointY": 776,
+            "angle": 180
+        },
+        {
+            "startX": 1027,
+            "startY": 787,
+            "endX": 1083,
+            "endY": 787,
+            "centerpointX": 1055,
+            "centerpointY": 787,
+            "angle": 180
+        },
+        {
+            "startX": 1058,
+            "startY": 776,
+            "endX": 1086,
+            "endY": 776,
+            "centerpointX": 1072,
+            "centerpointY": 776,
+            "angle": 180
+        },
+        {
+            "startX": 1100,
+            "startY": 776,
+            "endX": 1128,
+            "endY": 776,
+            "centerpointX": 1114,
+            "centerpointY": 776,
+            "angle": 180
+        },
+        {
+            "startX": 1139,
+            "startY": 787,
+            "endX": 1172,
+            "endY": 787,
+            "centerpointX": 1155,
+            "centerpointY": 787,
+            "angle": 180
+        },
+        {
+            "startX": 1153,
+            "startY": 776,
+            "endX": 1172,
+            "endY": 776,
+            "centerpointX": 1162,
+            "centerpointY": 776,
+            "angle": 180
+        },
+        {
+            "startX": 1192,
+            "startY": 776,
+            "endX": 1762,
+            "endY": 776,
+            "centerpointX": 1477,
+            "centerpointY": 776,
+            "angle": 180
+        },
+        {
+            "startX": 1218,
+            "startY": 787,
+            "endX": 1274,
+            "endY": 787,
+            "centerpointX": 1246,
+            "centerpointY": 787,
+            "angle": 180
+        },
+        {
+            "startX": 1301,
+            "startY": 787,
+            "endX": 1344,
+            "endY": 787,
+            "centerpointX": 1322,
+            "centerpointY": 787,
+            "angle": 180
+        },
+        {
+            "startX": 1361,
+            "startY": 792,
+            "endX": 1381,
+            "endY": 792,
+            "centerpointX": 1371,
+            "centerpointY": 792,
+            "angle": 180
+        },
+        {
+            "startX": 1393,
+            "startY": 787,
+            "endX": 1775,
+            "endY": 787,
+            "centerpointX": 1584,
+            "centerpointY": 787,
+            "angle": 180
+        },
+        {
+            "startX": 1551,
+            "startY": 1004,
+            "endX": 1562,
+            "endY": 1004,
+            "centerpointX": 1556,
+            "centerpointY": 1004,
+            "angle": 180
+        },
+        {
+            "startX": 1552,
+            "startY": 1046,
+            "endX": 1671,
+            "endY": 1087,
+            "centerpointX": 1611,
+            "centerpointY": 1066,
+            "angle": -160
+        },
+        {
+            "startX": 1563,
+            "startY": 1041,
+            "endX": 1672,
+            "endY": 1078,
+            "centerpointX": 1617,
+            "centerpointY": 1059,
+            "angle": -161
+        },
+        {
+            "startX": 1678,
+            "startY": 1080,
+            "endX": 1712,
+            "endY": 1083,
+            "centerpointX": 1695,
+            "centerpointY": 1081,
+            "angle": -174
+        },
+        {
+            "startX": 1683,
+            "startY": 1090,
+            "endX": 1717,
+            "endY": 1092,
+            "centerpointX": 1700,
+            "centerpointY": 1091,
+            "angle": -176
+        },
+        {
+            "startX": 1720,
+            "startY": 1028,
+            "endX": 1760,
+            "endY": 1028,
+            "centerpointX": 1740,
+            "centerpointY": 1028,
+            "angle": 180
+        },
+        {
+            "startX": 1728,
+            "startY": 1040,
+            "endX": 1772,
+            "endY": 1040,
+            "centerpointX": 1750,
+            "centerpointY": 1040,
+            "angle": 180
+        },
+        {
+            "startX": 1765,
+            "startY": 666,
+            "endX": 1950,
+            "endY": 666,
+            "centerpointX": 1857,
+            "centerpointY": 666,
+            "angle": 180
+        },
+        {
+            "startX": 1765,
+            "startY": 764,
+            "endX": 1775,
+            "endY": 764,
+            "centerpointX": 1770,
+            "centerpointY": 764,
+            "angle": 180
+        },
+        {
+            "startX": 1766,
+            "startY": 710,
+            "endX": 1775,
+            "endY": 710,
+            "centerpointX": 1770,
+            "centerpointY": 710,
+            "angle": 180
+        },
+        {
+            "startX": 1767,
+            "startY": 655,
+            "endX": 1959,
+            "endY": 655,
+            "centerpointX": 1863,
+            "centerpointY": 655,
+            "angle": 180
+        },
+        {
+            "startX": 1770,
+            "startY": 653,
+            "endX": 1955,
+            "endY": 653,
+            "centerpointX": 1862,
+            "centerpointY": 653,
+            "angle": 180
+        },
+        {
+            "startX": 1777,
+            "startY": 998,
+            "endX": 1855,
+            "endY": 998,
+            "centerpointX": 1816,
+            "centerpointY": 998,
+            "angle": 180
+        },
+        {
+            "startX": 1809,
+            "startY": 986,
+            "endX": 1819,
+            "endY": 986,
+            "centerpointX": 1814,
+            "centerpointY": 986,
+            "angle": 180
+        },
+        {
+            "startX": 1840,
+            "startY": 987,
+            "endX": 1860,
+            "endY": 987,
+            "centerpointX": 1850,
+            "centerpointY": 987,
+            "angle": 180
+        },
+        {
+            "startX": 1886,
+            "startY": 987,
+            "endX": 1948,
+            "endY": 987,
+            "centerpointX": 1917,
+            "centerpointY": 987,
+            "angle": 180
+        },
+        {
+            "startX": 1889,
+            "startY": 998,
+            "endX": 1933,
+            "endY": 998,
+            "centerpointX": 1911,
+            "centerpointY": 998,
+            "angle": 180
+        },
+        {
+            "startX": 197,
+            "startY": 60,
+            "endX": 197,
+            "endY": 115,
+            "centerpointX": 197,
+            "centerpointY": 87,
+            "angle": -90
+        },
+        {
+            "startX": 191,
+            "startY": 89,
+            "endX": 191,
+            "endY": 107,
+            "centerpointX": 191,
+            "centerpointY": 98,
+            "angle": -90
+        },
+        {
+            "startX": 484,
+            "startY": 58,
+            "endX": 485,
+            "endY": 100,
+            "centerpointX": 484,
+            "centerpointY": 79,
+            "angle": -91
+        },
+        {
+            "startX": 491,
+            "startY": 58,
+            "endX": 491,
+            "endY": 100,
+            "centerpointX": 491,
+            "centerpointY": 79,
+            "angle": -90
+        },
+        {
+            "startX": 197,
+            "startY": 123,
+            "endX": 197,
+            "endY": 162,
+            "centerpointX": 197,
+            "centerpointY": 142,
+            "angle": -90
+        },
+        {
+            "startX": 607,
+            "startY": 58,
+            "endX": 607,
+            "endY": 145,
+            "centerpointX": 607,
+            "centerpointY": 101,
+            "angle": -90
+        },
+        {
+            "startX": 600,
+            "startY": 58,
+            "endX": 600,
+            "endY": 149,
+            "centerpointX": 600,
+            "centerpointY": 103,
+            "angle": -90
+        },
+        {
+            "startX": 197,
+            "startY": 183,
+            "endX": 197,
+            "endY": 197,
+            "centerpointX": 197,
+            "centerpointY": 190,
+            "angle": -90
+        },
+        {
+            "startX": 191,
+            "startY": 183,
+            "endX": 191,
+            "endY": 255,
+            "centerpointX": 191,
+            "centerpointY": 219,
+            "angle": -90
+        },
+        {
+            "startX": 301,
+            "startY": 60,
+            "endX": 301,
+            "endY": 208,
+            "centerpointX": 301,
+            "centerpointY": 134,
+            "angle": -90
+        },
+        {
+            "startX": 483,
+            "startY": 123,
+            "endX": 483,
+            "endY": 218,
+            "centerpointX": 483,
+            "centerpointY": 170,
+            "angle": -90
+        },
+        {
+            "startX": 393,
+            "startY": 58,
+            "endX": 393,
+            "endY": 218,
+            "centerpointX": 393,
+            "centerpointY": 138,
+            "angle": -90
+        },
+        {
+            "startX": 395,
+            "startY": 58,
+            "endX": 395,
+            "endY": 218,
+            "centerpointX": 395,
+            "centerpointY": 138,
+            "angle": -90
+        },
+        {
+            "startX": 491,
+            "startY": 125,
+            "endX": 491,
+            "endY": 218,
+            "centerpointX": 491,
+            "centerpointY": 171,
+            "angle": -90
+        },
+        {
+            "startX": 387,
+            "startY": 58,
+            "endX": 387,
+            "endY": 218,
+            "centerpointX": 387,
+            "centerpointY": 138,
+            "angle": -90
+        },
+        {
+            "startX": 197,
+            "startY": 220,
+            "endX": 197,
+            "endY": 270,
+            "centerpointX": 197,
+            "centerpointY": 245,
+            "angle": -90
+        },
+        {
+            "startX": 307,
+            "startY": 60,
+            "endX": 307,
+            "endY": 240,
+            "centerpointX": 307,
+            "centerpointY": 150,
+            "angle": -90
+        },
+        {
+            "startX": 705,
+            "startY": 49,
+            "endX": 705,
+            "endY": 277,
+            "centerpointX": 705,
+            "centerpointY": 163,
+            "angle": -90
+        },
+        {
+            "startX": 697,
+            "startY": 58,
+            "endX": 697,
+            "endY": 277,
+            "centerpointX": 697,
+            "centerpointY": 167,
+            "angle": -90
+        },
+        {
+            "startX": 770,
+            "startY": 285,
+            "endX": 770,
+            "endY": 302,
+            "centerpointX": 770,
+            "centerpointY": 293,
+            "angle": -90
+        },
+        {
+            "startX": 191,
+            "startY": 286,
+            "endX": 191,
+            "endY": 518,
+            "centerpointX": 191,
+            "centerpointY": 402,
+            "angle": -90
+        },
+        {
+            "startX": 935,
+            "startY": 328,
+            "endX": 935,
+            "endY": 355,
+            "centerpointX": 935,
+            "centerpointY": 341,
+            "angle": -90
+        },
+        {
+            "startX": 851,
+            "startY": 292,
+            "endX": 851,
+            "endY": 336,
+            "centerpointX": 851,
+            "centerpointY": 314,
+            "angle": -90
+        },
+        {
+            "startX": 375,
+            "startY": 277,
+            "endX": 375,
+            "endY": 352,
+            "centerpointX": 375,
+            "centerpointY": 314,
+            "angle": -90
+        },
+        {
+            "startX": 381,
+            "startY": 277,
+            "endX": 381,
+            "endY": 353,
+            "centerpointX": 381,
+            "centerpointY": 315,
+            "angle": -90
+        },
+        {
+            "startX": 947,
+            "startY": 327,
+            "endX": 947,
+            "endY": 357,
+            "centerpointX": 947,
+            "centerpointY": 342,
+            "angle": -90
+        },
+        {
+            "startX": 851,
+            "startY": 368,
+            "endX": 851,
+            "endY": 375,
+            "centerpointX": 851,
+            "centerpointY": 371,
+            "angle": -90
+        },
+        {
+            "startX": 461,
+            "startY": 270,
+            "endX": 461,
+            "endY": 405,
+            "centerpointX": 461,
+            "centerpointY": 337,
+            "angle": -90
+        },
+        {
+            "startX": 277,
+            "startY": 285,
+            "endX": 276,
+            "endY": 470,
+            "centerpointX": 276,
+            "centerpointY": 377,
+            "angle": -89
+        },
+        {
+            "startX": 777,
+            "startY": 407,
+            "endX": 778,
+            "endY": 432,
+            "centerpointX": 777,
+            "centerpointY": 419,
+            "angle": -92
+        },
+        {
+            "startX": 381,
+            "startY": 378,
+            "endX": 381,
+            "endY": 409,
+            "centerpointX": 381,
+            "centerpointY": 393,
+            "angle": -90
+        },
+        {
+            "startX": 375,
+            "startY": 378,
+            "endX": 375,
+            "endY": 409,
+            "centerpointX": 375,
+            "centerpointY": 393,
+            "angle": -90
+        },
+        {
+            "startX": 676,
+            "startY": 388,
+            "endX": 676,
+            "endY": 415,
+            "centerpointX": 676,
+            "centerpointY": 401,
+            "angle": -90
+        },
+        {
+            "startX": 947,
+            "startY": 395,
+            "endX": 947,
+            "endY": 424,
+            "centerpointX": 947,
+            "centerpointY": 409,
+            "angle": -90
+        },
+        {
+            "startX": 461,
+            "startY": 435,
+            "endX": 461,
+            "endY": 470,
+            "centerpointX": 461,
+            "centerpointY": 452,
+            "angle": -90
+        },
+        {
+            "startX": 467,
+            "startY": 271,
+            "endX": 467,
+            "endY": 436,
+            "centerpointX": 467,
+            "centerpointY": 353,
+            "angle": -90
+        },
+        {
+            "startX": 935,
+            "startY": 421,
+            "endX": 935,
+            "endY": 443,
+            "centerpointX": 935,
+            "centerpointY": 432,
+            "angle": -90
+        },
+        {
+            "startX": 469,
+            "startY": 438,
+            "endX": 469,
+            "endY": 447,
+            "centerpointX": 469,
+            "centerpointY": 442,
+            "angle": -90
+        },
+        {
+            "startX": 701,
+            "startY": 404,
+            "endX": 700,
+            "endY": 449,
+            "centerpointX": 700,
+            "centerpointY": 426,
+            "angle": -88
+        },
+        {
+            "startX": 707,
+            "startY": 370,
+            "endX": 707,
+            "endY": 460,
+            "centerpointX": 707,
+            "centerpointY": 415,
+            "angle": -90
+        },
+        {
+            "startX": 271,
+            "startY": 285,
+            "endX": 271,
+            "endY": 470,
+            "centerpointX": 271,
+            "centerpointY": 377,
+            "angle": -90
+        },
+        {
+            "startX": 935,
+            "startY": 485,
+            "endX": 936,
+            "endY": 511,
+            "centerpointX": 935,
+            "centerpointY": 498,
+            "angle": -92
+        },
+        {
+            "startX": 276,
+            "startY": 490,
+            "endX": 277,
+            "endY": 535,
+            "centerpointX": 276,
+            "centerpointY": 512,
+            "angle": -91
+        },
+        {
+            "startX": 271,
+            "startY": 491,
+            "endX": 271,
+            "endY": 532,
+            "centerpointX": 271,
+            "centerpointY": 511,
+            "angle": -90
+        },
+        {
+            "startX": 947,
+            "startY": 484,
+            "endX": 947,
+            "endY": 509,
+            "centerpointX": 947,
+            "centerpointY": 496,
+            "angle": -90
+        },
+        {
+            "startX": 197,
+            "startY": 285,
+            "endX": 197,
+            "endY": 517,
+            "centerpointX": 197,
+            "centerpointY": 401,
+            "angle": -90
+        },
+        {
+            "startX": 66,
+            "startY": 58,
+            "endX": 66,
+            "endY": 518,
+            "centerpointX": 66,
+            "centerpointY": 288,
+            "angle": -90
+        },
+        {
+            "startX": 647,
+            "startY": 519,
+            "endX": 647,
+            "endY": 537,
+            "centerpointX": 647,
+            "centerpointY": 528,
+            "angle": -90
+        },
+        {
+            "startX": 461,
+            "startY": 504,
+            "endX": 461,
+            "endY": 535,
+            "centerpointX": 461,
+            "centerpointY": 519,
+            "angle": -90
+        },
+        {
+            "startX": 468,
+            "startY": 532,
+            "endX": 467,
+            "endY": 581,
+            "centerpointX": 467,
+            "centerpointY": 556,
+            "angle": -88
+        },
+        {
+            "startX": 271,
+            "startY": 534,
+            "endX": 271,
+            "endY": 545,
+            "centerpointX": 271,
+            "centerpointY": 539,
+            "angle": -90
+        },
+        {
+            "startX": 461,
+            "startY": 548,
+            "endX": 461,
+            "endY": 578,
+            "centerpointX": 461,
+            "centerpointY": 563,
+            "angle": -90
+        },
+        {
+            "startX": 600,
+            "startY": 503,
+            "endX": 600,
+            "endY": 549,
+            "centerpointX": 600,
+            "centerpointY": 526,
+            "angle": -90
+        },
+        {
+            "startX": 595,
+            "startY": 503,
+            "endX": 595,
+            "endY": 549,
+            "centerpointX": 595,
+            "centerpointY": 526,
+            "angle": -90
+        },
+        {
+            "startX": 701,
+            "startY": 513,
+            "endX": 701,
+            "endY": 550,
+            "centerpointX": 701,
+            "centerpointY": 531,
+            "angle": -90
+        },
+        {
+            "startX": 642,
+            "startY": 511,
+            "endX": 642,
+            "endY": 552,
+            "centerpointX": 642,
+            "centerpointY": 531,
+            "angle": -90
+        },
+        {
+            "startX": 62,
+            "startY": 522,
+            "endX": 62,
+            "endY": 553,
+            "centerpointX": 62,
+            "centerpointY": 537,
+            "angle": -90
+        },
+        {
+            "startX": 707,
+            "startY": 512,
+            "endX": 707,
+            "endY": 559,
+            "centerpointX": 707,
+            "centerpointY": 535,
+            "angle": -90
+        },
+        {
+            "startX": 947,
+            "startY": 548,
+            "endX": 947,
+            "endY": 574,
+            "centerpointX": 947,
+            "centerpointY": 561,
+            "angle": -90
+        },
+        {
+            "startX": 936,
+            "startY": 548,
+            "endX": 935,
+            "endY": 575,
+            "centerpointX": 935,
+            "centerpointY": 561,
+            "angle": -87
+        },
+        {
+            "startX": 707,
+            "startY": 583,
+            "endX": 707,
+            "endY": 627,
+            "centerpointX": 707,
+            "centerpointY": 605,
+            "angle": -90
+        },
+        {
+            "startX": 273,
+            "startY": 582,
+            "endX": 272,
+            "endY": 617,
+            "centerpointX": 272,
+            "centerpointY": 599,
+            "angle": -88
+        },
+        {
+            "startX": 66,
+            "startY": 591,
+            "endX": 66,
+            "endY": 691,
+            "centerpointX": 66,
+            "centerpointY": 641,
+            "angle": -90
+        },
+        {
+            "startX": 183,
+            "startY": 566,
+            "endX": 183,
+            "endY": 600,
+            "centerpointX": 183,
+            "centerpointY": 583,
+            "angle": -90
+        },
+        {
+            "startX": 947,
+            "startY": 613,
+            "endX": 947,
+            "endY": 642,
+            "centerpointX": 947,
+            "centerpointY": 627,
+            "angle": -90
+        },
+        {
+            "startX": 247,
+            "startY": 611,
+            "endX": 247,
+            "endY": 616,
+            "centerpointX": 247,
+            "centerpointY": 613,
+            "angle": -90
+        },
+        {
+            "startX": 177,
+            "startY": 566,
+            "endX": 177,
+            "endY": 616,
+            "centerpointX": 177,
+            "centerpointY": 591,
+            "angle": -90
+        },
+        {
+            "startX": 483,
+            "startY": 629,
+            "endX": 483,
+            "endY": 711,
+            "centerpointX": 483,
+            "centerpointY": 670,
+            "angle": -90
+        },
+        {
+            "startX": 935,
+            "startY": 617,
+            "endX": 935,
+            "endY": 640,
+            "centerpointX": 935,
+            "centerpointY": 628,
+            "angle": -90
+        },
+        {
+            "startX": 791,
+            "startY": 462,
+            "endX": 791,
+            "endY": 645,
+            "centerpointX": 791,
+            "centerpointY": 553,
+            "angle": -90
+        },
+        {
+            "startX": 777,
+            "startY": 458,
+            "endX": 777,
+            "endY": 647,
+            "centerpointX": 777,
+            "centerpointY": 552,
+            "angle": -90
+        },
+        {
+            "startX": 701,
+            "startY": 582,
+            "endX": 701,
+            "endY": 647,
+            "centerpointX": 701,
+            "centerpointY": 614,
+            "angle": -90
+        },
+        {
+            "startX": 191,
+            "startY": 656,
+            "endX": 191,
+            "endY": 712,
+            "centerpointX": 191,
+            "centerpointY": 684,
+            "angle": -90
+        },
+        {
+            "startX": 947,
+            "startY": 681,
+            "endX": 947,
+            "endY": 735,
+            "centerpointX": 947,
+            "centerpointY": 708,
+            "angle": -90
+        },
+        {
+            "startX": 701,
+            "startY": 672,
+            "endX": 700,
+            "endY": 720,
+            "centerpointX": 700,
+            "centerpointY": 696,
+            "angle": -88
+        },
+        {
+            "startX": 707,
+            "startY": 672,
+            "endX": 707,
+            "endY": 703,
+            "centerpointX": 707,
+            "centerpointY": 687,
+            "angle": -90
+        },
+        {
+            "startX": 1765,
+            "startY": 660,
+            "endX": 1765,
+            "endY": 707,
+            "centerpointX": 1765,
+            "centerpointY": 683,
+            "angle": -90
+        },
+        {
+            "startX": 1776,
+            "startY": 667,
+            "endX": 1775,
+            "endY": 709,
+            "centerpointX": 1775,
+            "centerpointY": 688,
+            "angle": -88
+        },
+        {
+            "startX": 777,
+            "startY": 676,
+            "endX": 777,
+            "endY": 714,
+            "centerpointX": 777,
+            "centerpointY": 695,
+            "angle": -90
+        },
+        {
+            "startX": 197,
+            "startY": 656,
+            "endX": 197,
+            "endY": 716,
+            "centerpointX": 197,
+            "centerpointY": 686,
+            "angle": -90
+        },
+        {
+            "startX": 328,
+            "startY": 582,
+            "endX": 328,
+            "endY": 716,
+            "centerpointX": 328,
+            "centerpointY": 649,
+            "angle": -90
+        },
+        {
+            "startX": 553,
+            "startY": 593,
+            "endX": 553,
+            "endY": 716,
+            "centerpointX": 553,
+            "centerpointY": 654,
+            "angle": -90
+        },
+        {
+            "startX": 247,
+            "startY": 658,
+            "endX": 247,
+            "endY": 716,
+            "centerpointX": 247,
+            "centerpointY": 687,
+            "angle": -90
+        },
+        {
+            "startX": 406,
+            "startY": 583,
+            "endX": 406,
+            "endY": 718,
+            "centerpointX": 406,
+            "centerpointY": 650,
+            "angle": -90
+        },
+        {
+            "startX": 476,
+            "startY": 611,
+            "endX": 476,
+            "endY": 718,
+            "centerpointX": 476,
+            "centerpointY": 664,
+            "angle": -90
+        },
+        {
+            "startX": 336,
+            "startY": 585,
+            "endX": 336,
+            "endY": 719,
+            "centerpointX": 336,
+            "centerpointY": 652,
+            "angle": -90
+        },
+        {
+            "startX": 253,
+            "startY": 658,
+            "endX": 253,
+            "endY": 719,
+            "centerpointX": 253,
+            "centerpointY": 688,
+            "angle": -90
+        },
+        {
+            "startX": 555,
+            "startY": 591,
+            "endX": 555,
+            "endY": 720,
+            "centerpointX": 555,
+            "centerpointY": 655,
+            "angle": -90
+        },
+        {
+            "startX": 547,
+            "startY": 585,
+            "endX": 547,
+            "endY": 720,
+            "centerpointX": 547,
+            "centerpointY": 652,
+            "angle": -90
+        },
+        {
+            "startX": 413,
+            "startY": 582,
+            "endX": 413,
+            "endY": 720,
+            "centerpointX": 413,
+            "centerpointY": 651,
+            "angle": -90
+        },
+        {
+            "startX": 53,
+            "startY": 52,
+            "endX": 53,
+            "endY": 725,
+            "centerpointX": 53,
+            "centerpointY": 388,
+            "angle": -90
+        },
+        {
+            "startX": 760,
+            "startY": 727,
+            "endX": 760,
+            "endY": 772,
+            "centerpointX": 760,
+            "centerpointY": 749,
+            "angle": -90
+        },
+        {
+            "startX": 55,
+            "startY": 48,
+            "endX": 55,
+            "endY": 728,
+            "centerpointX": 55,
+            "centerpointY": 388,
+            "angle": -90
+        },
+        {
+            "startX": 935,
+            "startY": 716,
+            "endX": 935,
+            "endY": 733,
+            "centerpointX": 935,
+            "centerpointY": 724,
+            "angle": -90
+        },
+        {
+            "startX": 1765,
+            "startY": 738,
+            "endX": 1765,
+            "endY": 775,
+            "centerpointX": 1765,
+            "centerpointY": 756,
+            "angle": -90
+        },
+        {
+            "startX": 950,
+            "startY": 776,
+            "endX": 951,
+            "endY": 787,
+            "centerpointX": 950,
+            "centerpointY": 781,
+            "angle": -95
+        },
+        {
+            "startX": 1775,
+            "startY": 738,
+            "endX": 1775,
+            "endY": 791,
+            "centerpointX": 1775,
+            "centerpointY": 764,
+            "angle": -90
+        },
+        {
+            "startX": 1768,
+            "startY": 788,
+            "endX": 1768,
+            "endY": 807,
+            "centerpointX": 1768,
+            "centerpointY": 797,
+            "angle": -90
+        },
+        {
+            "startX": 1361,
+            "startY": 808,
+            "endX": 1361,
+            "endY": 822,
+            "centerpointX": 1361,
+            "centerpointY": 815,
+            "angle": -90
+        },
+        {
+            "startX": 906,
+            "startY": 788,
+            "endX": 906,
+            "endY": 818,
+            "centerpointX": 906,
+            "centerpointY": 803,
+            "angle": -90
+        },
+        {
+            "startX": 800,
+            "startY": 828,
+            "endX": 801,
+            "endY": 872,
+            "centerpointX": 800,
+            "centerpointY": 850,
+            "angle": -91
+        },
+        {
+            "startX": 760,
+            "startY": 791,
+            "endX": 760,
+            "endY": 838,
+            "centerpointX": 760,
+            "centerpointY": 814,
+            "angle": -90
+        },
+        {
+            "startX": 1361,
+            "startY": 838,
+            "endX": 1361,
+            "endY": 851,
+            "centerpointX": 1361,
+            "centerpointY": 844,
+            "angle": -90
+        },
+        {
+            "startX": 1382,
+            "startY": 806,
+            "endX": 1382,
+            "endY": 839,
+            "centerpointX": 1382,
+            "centerpointY": 822,
+            "angle": -90
+        },
+        {
+            "startX": 806,
+            "startY": 843,
+            "endX": 807,
+            "endY": 872,
+            "centerpointX": 806,
+            "centerpointY": 857,
+            "angle": -91
+        },
+        {
+            "startX": 1366,
+            "startY": 866,
+            "endX": 1366,
+            "endY": 880,
+            "centerpointX": 1366,
+            "centerpointY": 873,
+            "angle": -90
+        },
+        {
+            "startX": 903,
+            "startY": 890,
+            "endX": 903,
+            "endY": 935,
+            "centerpointX": 903,
+            "centerpointY": 912,
+            "angle": -90
+        },
+        {
+            "startX": 1361,
+            "startY": 894,
+            "endX": 1361,
+            "endY": 907,
+            "centerpointX": 1361,
+            "centerpointY": 900,
+            "angle": -90
+        },
+        {
+            "startX": 1382,
+            "startY": 851,
+            "endX": 1382,
+            "endY": 924,
+            "centerpointX": 1382,
+            "centerpointY": 887,
+            "angle": -90
+        },
+        {
+            "startX": 1292,
+            "startY": 788,
+            "endX": 1292,
+            "endY": 936,
+            "centerpointX": 1292,
+            "centerpointY": 862,
+            "angle": -90
+        },
+        {
+            "startX": 1322,
+            "startY": 788,
+            "endX": 1322,
+            "endY": 936,
+            "centerpointX": 1322,
+            "centerpointY": 862,
+            "angle": -90
+        },
+        {
+            "startX": 1326,
+            "startY": 788,
+            "endX": 1326,
+            "endY": 940,
+            "centerpointX": 1326,
+            "centerpointY": 864,
+            "angle": -90
+        },
+        {
+            "startX": 1298,
+            "startY": 790,
+            "endX": 1298,
+            "endY": 940,
+            "centerpointX": 1298,
+            "centerpointY": 865,
+            "angle": -90
+        },
+        {
+            "startX": 1361,
+            "startY": 923,
+            "endX": 1361,
+            "endY": 946,
+            "centerpointX": 1361,
+            "centerpointY": 934,
+            "angle": -90
+        },
+        {
+            "startX": 1388,
+            "startY": 788,
+            "endX": 1388,
+            "endY": 951,
+            "centerpointX": 1388,
+            "centerpointY": 869,
+            "angle": -90
+        },
+        {
+            "startX": 1775,
+            "startY": 830,
+            "endX": 1775,
+            "endY": 982,
+            "centerpointX": 1775,
+            "centerpointY": 906,
+            "angle": -90
+        },
+        {
+            "startX": 760,
+            "startY": 876,
+            "endX": 760,
+            "endY": 982,
+            "centerpointX": 760,
+            "centerpointY": 929,
+            "angle": -90
+        },
+        {
+            "startX": 1952,
+            "startY": 670,
+            "endX": 1952,
+            "endY": 983,
+            "centerpointX": 1952,
+            "centerpointY": 826,
+            "angle": -90
+        },
+        {
+            "startX": 822,
+            "startY": 866,
+            "endX": 822,
+            "endY": 984,
+            "centerpointX": 822,
+            "centerpointY": 925,
+            "angle": -90
+        },
+        {
+            "startX": 971,
+            "startY": 843,
+            "endX": 971,
+            "endY": 985,
+            "centerpointX": 971,
+            "centerpointY": 914,
+            "angle": -90
+        },
+        {
+            "startX": 963,
+            "startY": 836,
+            "endX": 963,
+            "endY": 985,
+            "centerpointX": 963,
+            "centerpointY": 910,
+            "angle": -90
+        },
+        {
+            "startX": 1768,
+            "startY": 831,
+            "endX": 1768,
+            "endY": 985,
+            "centerpointX": 1768,
+            "centerpointY": 908,
+            "angle": -90
+        },
+        {
+            "startX": 828,
+            "startY": 867,
+            "endX": 828,
+            "endY": 985,
+            "centerpointX": 828,
+            "centerpointY": 926,
+            "angle": -90
+        },
+        {
+            "startX": 905,
+            "startY": 890,
+            "endX": 905,
+            "endY": 985,
+            "centerpointX": 905,
+            "centerpointY": 937,
+            "angle": -90
+        },
+        {
+            "startX": 897,
+            "startY": 890,
+            "endX": 897,
+            "endY": 985,
+            "centerpointX": 897,
+            "centerpointY": 937,
+            "angle": -90
+        },
+        {
+            "startX": 903,
+            "startY": 950,
+            "endX": 903,
+            "endY": 985,
+            "centerpointX": 903,
+            "centerpointY": 967,
+            "angle": -90
+        },
+        {
+            "startX": 1562,
+            "startY": 991,
+            "endX": 1562,
+            "endY": 1021,
+            "centerpointX": 1562,
+            "centerpointY": 1006,
+            "angle": -90
+        },
+        {
+            "startX": 748,
+            "startY": 723,
+            "endX": 748,
+            "endY": 993,
+            "centerpointX": 748,
+            "centerpointY": 858,
+            "angle": -90
+        },
+        {
+            "startX": 1961,
+            "startY": 657,
+            "endX": 1961,
+            "endY": 994,
+            "centerpointX": 1961,
+            "centerpointY": 825,
+            "angle": -90
+        },
+        {
+            "startX": 1765,
+            "startY": 991,
+            "endX": 1765,
+            "endY": 1027,
+            "centerpointX": 1765,
+            "centerpointY": 1009,
+            "angle": -90
+        },
+        {
+            "startX": 1776,
+            "startY": 998,
+            "endX": 1776,
+            "endY": 1036,
+            "centerpointX": 1776,
+            "centerpointY": 1017,
+            "angle": -90
+        },
+        {
+            "startX": 1551,
+            "startY": 999,
+            "endX": 1551,
+            "endY": 1042,
+            "centerpointX": 1551,
+            "centerpointY": 1020,
+            "angle": -90
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "metaData": [
+        {
+            "shouldLoadSymbols": "False"
+        }
+    ],
+    "points": [
+        {
+            "startX": 364,
+            "startY": 283,
+            "endX": 1201,
+            "endY": 1026,
+            "centerpointX": 782,
+            "centerpointY": 654,
+            "angle": -138
+        },
+        {
+            "startX": 1203,
+            "startY": 190,
+            "endX": 1204,
+            "endY": 1026,
+            "centerpointX": 1203,
+            "centerpointY": 608,
+            "angle": -90
+        }
+    ]
+}
