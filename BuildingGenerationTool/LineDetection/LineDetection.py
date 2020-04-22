@@ -10,9 +10,9 @@ maxLineGap = int(sys.argv[2])
 detectionThreshold = int(sys.argv[3])
 _minDistToMerge = int(sys.argv[4])
 _minMergeAngle = int(sys.argv[5])
-imageLocation = sys.argv[6]
-saveLocation = sys.argv[7]
-shouldLoadSymbols = sys.argv[8]
+imageLocation = str(sys.argv[6])
+saveLocation = str(sys.argv[7])
+shouldLoadSymbols = str(sys.argv[8])
 
 #default variables for testing script not calling from c# project
 # minLineLength = 5
@@ -56,7 +56,7 @@ def pointstojson(pointlist):
 def processLines():
     img = cv2.imread(imageLocation)
     img = np.array(img, dtype=np.uint8)
-    
+
     #greyscale
     gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
 

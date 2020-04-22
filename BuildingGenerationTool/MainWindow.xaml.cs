@@ -178,10 +178,11 @@ namespace BuildingGenerationTool
         {
             string selectedFileName = fileName;
             ImageDirectory.Content = selectedFileName;
+            System.Uri uri = new System.Uri(fileName);
+            BitmapImage temp = new BitmapImage(uri);
+            
             BitmapImage bitmap = new BitmapImage();
-            bitmap.BeginInit();
-            bitmap.UriSource = new Uri(selectedFileName);
-            bitmap.EndInit();
+            bitmap = temp.Clone();
             targetElement.Source = bitmap;
         }
 

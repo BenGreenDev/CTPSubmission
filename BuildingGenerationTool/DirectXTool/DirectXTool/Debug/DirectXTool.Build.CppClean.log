@@ -1,55 +1,100 @@
-c:\users\ben11\documents\ctp submission\buildinggenerationtool\directxtool\directxtool\debug\dxerr.obj
-c:\users\ben11\documents\ctp submission\buildinggenerationtool\directxtool\directxtool\debug\imgui_impl_win32.obj
-c:\users\ben11\documents\ctp submission\buildinggenerationtool\directxtool\directxtool\debug\mouse.obj
-c:\users\ben11\documents\ctp submission\buildinggenerationtool\directxtool\directxtool\debug\wall.obj
-c:\users\ben11\documents\ctp submission\buildinggenerationtool\directxtool\directxtool\debug\window.obj
-c:\users\ben11\documents\ctp submission\buildinggenerationtool\directxtool\directxtool\debug\camera.obj
-c:\users\ben11\documents\ctp submission\buildinggenerationtool\directxtool\directxtool\debug\imgui_demo.obj
-c:\users\ben11\documents\ctp submission\buildinggenerationtool\directxtool\directxtool\debug\imgui_impl_dx11.obj
-c:\users\ben11\documents\ctp submission\buildinggenerationtool\directxtool\directxtool\debug\surface.obj
-c:\users\ben11\documents\ctp submission\buildinggenerationtool\directxtool\directxtool\debug\wallmetadata.obj
-c:\users\ben11\documents\ctp submission\buildinggenerationtool\directxtool\directxtool\debug\winmain.obj
-c:\users\ben11\documents\ctp submission\buildinggenerationtool\directxtool\directxtool\debug\door.obj
-c:\users\ben11\documents\ctp submission\buildinggenerationtool\directxtool\directxtool\debug\imgui_widgets.obj
-c:\users\ben11\documents\ctp submission\buildinggenerationtool\directxtool\directxtool\debug\pixelshader.obj
-c:\users\ben11\documents\ctp submission\buildinggenerationtool\directxtool\directxtool\debug\timer.obj
+c:\users\ben11\documents\ctp submission\buildinggenerationtool\directxtool\directxtool\debug\bindable.obj
+c:\users\ben11\documents\ctp submission\buildinggenerationtool\directxtool\directxtool\debug\imgui.obj
+c:\users\ben11\documents\ctp submission\buildinggenerationtool\directxtool\directxtool\debug\indexbuffer.obj
+c:\users\ben11\documents\ctp submission\buildinggenerationtool\directxtool\directxtool\debug\symbolmetadata.obj
 c:\users\ben11\documents\ctp submission\buildinggenerationtool\directxtool\directxtool\debug\transformcbuf.obj
+c:\users\ben11\documents\ctp submission\buildinggenerationtool\directxtool\directxtool\debug\door.obj
+c:\users\ben11\documents\ctp submission\buildinggenerationtool\directxtool\directxtool\debug\keyboard.obj
+c:\users\ben11\documents\ctp submission\buildinggenerationtool\directxtool\directxtool\debug\windowobject.obj
+c:\users\ben11\documents\ctp submission\buildinggenerationtool\directxtool\directxtool\debug\wallmetadata.obj
+c:\users\ben11\documents\ctp submission\buildinggenerationtool\directxtool\directxtool\debug\window.obj
 c:\users\ben11\documents\ctp submission\buildinggenerationtool\directxtool\directxtool\debug\drawable.obj
 c:\users\ben11\documents\ctp submission\buildinggenerationtool\directxtool\directxtool\debug\imguimanager.obj
 c:\users\ben11\documents\ctp submission\buildinggenerationtool\directxtool\directxtool\debug\imgui_draw.obj
+c:\users\ben11\documents\ctp submission\buildinggenerationtool\directxtool\directxtool\debug\imgui_widgets.obj
+c:\users\ben11\documents\ctp submission\buildinggenerationtool\directxtool\directxtool\debug\pixelshader.obj
+c:\users\ben11\documents\ctp submission\buildinggenerationtool\directxtool\directxtool\debug\timer.obj
+c:\users\ben11\documents\ctp submission\buildinggenerationtool\directxtool\directxtool\debug\vertexbuffer.obj
+c:\users\ben11\documents\ctp submission\buildinggenerationtool\directxtool\directxtool\debug\camera.obj
+c:\users\ben11\documents\ctp submission\buildinggenerationtool\directxtool\directxtool\debug\imgui_demo.obj
+c:\users\ben11\documents\ctp submission\buildinggenerationtool\directxtool\directxtool\debug\imgui_impl_win32.obj
+c:\users\ben11\documents\ctp submission\buildinggenerationtool\directxtool\directxtool\debug\mouse.obj
+c:\users\ben11\documents\ctp submission\buildinggenerationtool\directxtool\directxtool\debug\wall.obj
+c:\users\ben11\documents\ctp submission\buildinggenerationtool\directxtool\directxtool\debug\vertexshader.obj
+c:\users\ben11\documents\ctp submission\buildinggenerationtool\directxtool\directxtool\debug\app.obj
 c:\users\ben11\documents\ctp submission\buildinggenerationtool\directxtool\directxtool\debug\inputlayout.obj
 c:\users\ben11\documents\ctp submission\buildinggenerationtool\directxtool\directxtool\debug\texture.obj
-c:\users\ben11\documents\ctp submission\buildinggenerationtool\directxtool\directxtool\debug\genericmodel.obj
-c:\users\ben11\documents\ctp submission\buildinggenerationtool\directxtool\directxtool\debug\genericobj.obj
-c:\users\ben11\documents\ctp submission\buildinggenerationtool\directxtool\directxtool\debug\levelloader.obj
-c:\users\ben11\documents\ctp submission\buildinggenerationtool\directxtool\directxtool\debug\app.obj
-c:\users\ben11\documents\ctp submission\buildinggenerationtool\directxtool\directxtool\debug\indexbuffer.obj
-c:\users\ben11\documents\ctp submission\buildinggenerationtool\directxtool\directxtool\debug\symbolmetadata.obj
-c:\users\ben11\documents\ctp submission\buildinggenerationtool\directxtool\directxtool\debug\vertexbuffer.obj
-c:\users\ben11\documents\ctp submission\buildinggenerationtool\directxtool\directxtool\debug\bindable.obj
-c:\users\ben11\documents\ctp submission\buildinggenerationtool\directxtool\directxtool\debug\imgui.obj
-c:\users\ben11\documents\ctp submission\buildinggenerationtool\directxtool\directxtool\debug\keyboard.obj
-c:\users\ben11\documents\ctp submission\buildinggenerationtool\directxtool\directxtool\debug\windowobject.obj
-c:\users\ben11\documents\ctp submission\buildinggenerationtool\directxtool\directxtool\debug\vertexshader.obj
 c:\users\ben11\documents\ctp submission\buildinggenerationtool\directxtool\directxtool\debug\exception.obj
 c:\users\ben11\documents\ctp submission\buildinggenerationtool\directxtool\directxtool\debug\graphics.obj
 c:\users\ben11\documents\ctp submission\buildinggenerationtool\directxtool\directxtool\debug\sampler.obj
 c:\users\ben11\documents\ctp submission\buildinggenerationtool\directxtool\directxtool\debug\topology.obj
+c:\users\ben11\documents\ctp submission\buildinggenerationtool\directxtool\directxtool\debug\dxerr.obj
+c:\users\ben11\documents\ctp submission\buildinggenerationtool\directxtool\directxtool\debug\levelloader.obj
+c:\users\ben11\documents\ctp submission\buildinggenerationtool\directxtool\directxtool\debug\genericmodel.obj
+c:\users\ben11\documents\ctp submission\buildinggenerationtool\directxtool\directxtool\debug\genericobj.obj
+c:\users\ben11\documents\ctp submission\buildinggenerationtool\directxtool\directxtool\debug\imgui_impl_dx11.obj
+c:\users\ben11\documents\ctp submission\buildinggenerationtool\directxtool\directxtool\debug\surface.obj
+c:\users\ben11\documents\ctp submission\buildinggenerationtool\directxtool\directxtool\debug\winmain.obj
 c:\users\ben11\documents\ctp submission\buildinggenerationtool\directxtool\directxtool\debug\vc142.pdb
+c:\users\ben11\documents\ctp-building-generator\buildinggenerationtool\directxtool\directxtool\debug\door.obj
+c:\users\ben11\documents\ctp-building-generator\buildinggenerationtool\directxtool\directxtool\debug\imgui_widgets.obj
+c:\users\ben11\documents\ctp-building-generator\buildinggenerationtool\directxtool\directxtool\debug\mouse.obj
+c:\users\ben11\documents\ctp-building-generator\buildinggenerationtool\directxtool\directxtool\debug\wall.obj
+c:\users\ben11\documents\ctp-building-generator\buildinggenerationtool\directxtool\directxtool\debug\winmain.obj
+c:\users\ben11\documents\ctp-building-generator\buildinggenerationtool\directxtool\directxtool\debug\camera.obj
+c:\users\ben11\documents\ctp-building-generator\buildinggenerationtool\directxtool\directxtool\debug\imgui_demo.obj
+c:\users\ben11\documents\ctp-building-generator\buildinggenerationtool\directxtool\directxtool\debug\inputlayout.obj
+c:\users\ben11\documents\ctp-building-generator\buildinggenerationtool\directxtool\directxtool\debug\symbolmetadata.obj
+c:\users\ben11\documents\ctp-building-generator\buildinggenerationtool\directxtool\directxtool\debug\transformcbuf.obj
+c:\users\ben11\documents\ctp-building-generator\buildinggenerationtool\directxtool\directxtool\debug\bindable.obj
+c:\users\ben11\documents\ctp-building-generator\buildinggenerationtool\directxtool\directxtool\debug\imgui.obj
+c:\users\ben11\documents\ctp-building-generator\buildinggenerationtool\directxtool\directxtool\debug\levelloader.obj
+c:\users\ben11\documents\ctp-building-generator\buildinggenerationtool\directxtool\directxtool\debug\drawable.obj
+c:\users\ben11\documents\ctp-building-generator\buildinggenerationtool\directxtool\directxtool\debug\imguimanager.obj
+c:\users\ben11\documents\ctp-building-generator\buildinggenerationtool\directxtool\directxtool\debug\imgui_draw.obj
+c:\users\ben11\documents\ctp-building-generator\buildinggenerationtool\directxtool\directxtool\debug\keyboard.obj
+c:\users\ben11\documents\ctp-building-generator\buildinggenerationtool\directxtool\directxtool\debug\windowobject.obj
+c:\users\ben11\documents\ctp-building-generator\buildinggenerationtool\directxtool\directxtool\debug\wallmetadata.obj
+c:\users\ben11\documents\ctp-building-generator\buildinggenerationtool\directxtool\directxtool\debug\window.obj
+c:\users\ben11\documents\ctp-building-generator\buildinggenerationtool\directxtool\directxtool\debug\exception.obj
+c:\users\ben11\documents\ctp-building-generator\buildinggenerationtool\directxtool\directxtool\debug\graphics.obj
+c:\users\ben11\documents\ctp-building-generator\buildinggenerationtool\directxtool\directxtool\debug\sampler.obj
+c:\users\ben11\documents\ctp-building-generator\buildinggenerationtool\directxtool\directxtool\debug\topology.obj
+c:\users\ben11\documents\ctp-building-generator\buildinggenerationtool\directxtool\directxtool\debug\app.obj
+c:\users\ben11\documents\ctp-building-generator\buildinggenerationtool\directxtool\directxtool\debug\imgui_impl_win32.obj
+c:\users\ben11\documents\ctp-building-generator\buildinggenerationtool\directxtool\directxtool\debug\pixelshader.obj
+c:\users\ben11\documents\ctp-building-generator\buildinggenerationtool\directxtool\directxtool\debug\timer.obj
+c:\users\ben11\documents\ctp-building-generator\buildinggenerationtool\directxtool\directxtool\debug\vertexbuffer.obj
+c:\users\ben11\documents\ctp-building-generator\buildinggenerationtool\directxtool\directxtool\debug\genericmodel.obj
+c:\users\ben11\documents\ctp-building-generator\buildinggenerationtool\directxtool\directxtool\debug\genericobj.obj
+c:\users\ben11\documents\ctp-building-generator\buildinggenerationtool\directxtool\directxtool\debug\imgui_impl_dx11.obj
+c:\users\ben11\documents\ctp-building-generator\buildinggenerationtool\directxtool\directxtool\debug\surface.obj
+c:\users\ben11\documents\ctp-building-generator\buildinggenerationtool\directxtool\directxtool\debug\vertexshader.obj
+c:\users\ben11\documents\ctp-building-generator\buildinggenerationtool\directxtool\directxtool\debug\dxerr.obj
+c:\users\ben11\documents\ctp-building-generator\buildinggenerationtool\directxtool\directxtool\debug\indexbuffer.obj
+c:\users\ben11\documents\ctp-building-generator\buildinggenerationtool\directxtool\directxtool\debug\texture.obj
+c:\users\ben11\documents\ctp-building-generator\buildinggenerationtool\directxtool\directxtool\debug\vc142.pdb
 c:\users\ben11\documents\ctp submission\buildinggenerationtool\directxtool\directxtool\pixelshader.cso
 c:\users\ben11\documents\ctp submission\buildinggenerationtool\directxtool\directxtool\textureps.cso
 c:\users\ben11\documents\ctp submission\buildinggenerationtool\directxtool\directxtool\texturevs.cso
 c:\users\ben11\documents\ctp submission\buildinggenerationtool\directxtool\directxtool\vertexshader.cso
+c:\users\ben11\documents\ctp-building-generator\buildinggenerationtool\directxtool\directxtool\pixelshader.cso
+c:\users\ben11\documents\ctp-building-generator\buildinggenerationtool\directxtool\directxtool\textureps.cso
+c:\users\ben11\documents\ctp-building-generator\buildinggenerationtool\directxtool\directxtool\texturevs.cso
+c:\users\ben11\documents\ctp-building-generator\buildinggenerationtool\directxtool\directxtool\vertexshader.cso
 c:\users\ben11\documents\ctp submission\buildinggenerationtool\directxtool\debug\directxtool.ilk
 c:\users\ben11\documents\ctp submission\buildinggenerationtool\directxtool\debug\directxtool.exe
 c:\users\ben11\documents\ctp submission\buildinggenerationtool\directxtool\debug\directxtool.pdb
-c:\users\ben11\documents\ctp submission\buildinggenerationtool\directxtool\directxtool\debug\vc142.idb
-c:\users\ben11\documents\ctp submission\buildinggenerationtool\directxtool\directxtool\debug\directxtool.tlog\cl.13296.write.1.tlog
-c:\users\ben11\documents\ctp submission\buildinggenerationtool\directxtool\directxtool\debug\directxtool.tlog\cl.command.1.tlog
-c:\users\ben11\documents\ctp submission\buildinggenerationtool\directxtool\directxtool\debug\directxtool.tlog\cl.read.1.tlog
-c:\users\ben11\documents\ctp submission\buildinggenerationtool\directxtool\directxtool\debug\directxtool.tlog\fxc.command.1.tlog
-c:\users\ben11\documents\ctp submission\buildinggenerationtool\directxtool\directxtool\debug\directxtool.tlog\fxc.read.1.tlog
-c:\users\ben11\documents\ctp submission\buildinggenerationtool\directxtool\directxtool\debug\directxtool.tlog\fxc.write.1.tlog
-c:\users\ben11\documents\ctp submission\buildinggenerationtool\directxtool\directxtool\debug\directxtool.tlog\link.command.1.tlog
-c:\users\ben11\documents\ctp submission\buildinggenerationtool\directxtool\directxtool\debug\directxtool.tlog\link.read.1.tlog
-c:\users\ben11\documents\ctp submission\buildinggenerationtool\directxtool\directxtool\debug\directxtool.tlog\link.write.1.tlog
+c:\users\ben11\documents\ctp-building-generator\buildinggenerationtool\directxtool\debug\directxtool.exe
+c:\users\ben11\documents\ctp-building-generator\buildinggenerationtool\directxtool\debug\directxtool.ilk
+c:\users\ben11\documents\ctp-building-generator\buildinggenerationtool\directxtool\debug\directxtool.pdb
+c:\users\ben11\documents\ctp-building-generator\buildinggenerationtool\directxtool\directxtool\debug\vc142.idb
+c:\users\ben11\documents\ctp-building-generator\buildinggenerationtool\directxtool\directxtool\debug\directxtool.tlog\cl.12332.write.1.tlog
+c:\users\ben11\documents\ctp-building-generator\buildinggenerationtool\directxtool\directxtool\debug\directxtool.tlog\cl.command.1.tlog
+c:\users\ben11\documents\ctp-building-generator\buildinggenerationtool\directxtool\directxtool\debug\directxtool.tlog\cl.read.1.tlog
+c:\users\ben11\documents\ctp-building-generator\buildinggenerationtool\directxtool\directxtool\debug\directxtool.tlog\fxc.command.1.tlog
+c:\users\ben11\documents\ctp-building-generator\buildinggenerationtool\directxtool\directxtool\debug\directxtool.tlog\fxc.read.1.tlog
+c:\users\ben11\documents\ctp-building-generator\buildinggenerationtool\directxtool\directxtool\debug\directxtool.tlog\fxc.write.1.tlog
+c:\users\ben11\documents\ctp-building-generator\buildinggenerationtool\directxtool\directxtool\debug\directxtool.tlog\link.command.1.tlog
+c:\users\ben11\documents\ctp-building-generator\buildinggenerationtool\directxtool\directxtool\debug\directxtool.tlog\link.read.1.tlog
+c:\users\ben11\documents\ctp-building-generator\buildinggenerationtool\directxtool\directxtool\debug\directxtool.tlog\link.write.1.tlog
